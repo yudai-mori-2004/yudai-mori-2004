@@ -1,4 +1,4 @@
-# Hi, I'm moodai
+# Hi, I'm Yudai Mori
 
 Interested in **Affective Computing** and **Web3**.  
 I see web and mobile development as tools to express ideas in these domains.  
