@@ -35,8 +35,8 @@ Currently exploring how technology can bridge human emotion and decentralized sy
 ---
 
 ## 📊 GitHub Stats
-![moodai's GitHub stats](https://github-readme-stats-rho-gilt-24.vercel.app/api?username=moodai&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats-rho-gilt-24.vercel.app/api/top-langs/?username=moodai&layout=compact&theme=radical&count_private=true)
+![moodai's GitHub stats](https://github-readme-stats-rho-gilt-24.vercel.app/api?username=yudai-mori-2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats-rho-gilt-24.vercel.app/api/top-langs/?username=yudai-mori-2004&layout=compact&theme=radical&count_private=true)
 
 ---
 
