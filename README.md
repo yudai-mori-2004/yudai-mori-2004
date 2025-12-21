@@ -1,6 +1,6 @@
 # Hi, I'm Yudai Mori
 
-Interested in **Affective Computing** and **Web3**.  
+Interested in **Web3**.  
 I see web and mobile development as tools to express ideas in these domains.  
 Currently exploring how technology can bridge human emotion and decentralized systems.
 
