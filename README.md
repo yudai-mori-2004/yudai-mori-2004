@@ -24,7 +24,7 @@ Currently exploring how technology can bridge human emotion and decentralized sy
 ---
 
 ## 🏆 Achievements
-- **CryptoCities Hackathon 2024** – *CitizenHub* (Governance Infrastructure Prize)
+- **CryptoCities Hackathon 2025** – *CitizenHub* (Governance Infrastructure Prize)
 
 ---
 
