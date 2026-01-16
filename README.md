@@ -15,8 +15,8 @@ Hacking on **Title Protocol**.
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yudai-mori-2004&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-mori-2004&layout=compact&theme=gotham&hide_border=true&count_private=true" height="150" alt="langs" />
+  <img src="https://github-readme-stats-rho-gilt-24.vercel.app/api?username=yudai-mori-2004&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats-rho-gilt-24.vercel.app/api/top-langs/?username=yudai-mori-2004&layout=compact&theme=gotham&hide_border=true&count_private=true" height="150" alt="langs" />
 </div>
 
 ---
