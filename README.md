@@ -1,7 +1,6 @@
-### Yudai Mori
+building protocols & products. hacking on solana. making useful things on the web.
 
-Bio-Engineering Student @ Osaka Univ. / Web3 Developer.
-Hacking on **Title Protocol**.
+Current focus: **Title Protocol**.
 
 ---
 
@@ -22,4 +21,4 @@ Hacking on **Title Protocol**.
 ---
 
 **Stack**
-:   Rust, TypeScript, Python, Solana, Arweave
+:   Rust, TypeScript, Python, Solana, Next.js
